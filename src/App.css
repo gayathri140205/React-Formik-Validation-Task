@@ -1,0 +1,50 @@
+.card{
+  background: rgb(254, 254, 254);
+
+}
+
+.heading{
+background:rgb(83, 44, 30);
+
+}
+
+.text-light{
+position: relative;
+top: 31px;
+
+
+}
+
+body{
+  background-image: url("/image/library.jpg");
+  
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+
+}
+.navbar {
+ 
+  padding: 15px;
+  background-color: bisque;
+  text-align: center;
+}
+
+.navbar-h3 span:hover {
+  color:#e9a250f5 ;
+}
+
+
+
+
+.navbar a {
+  text-decoration: none;
+  color: #b15310;
+  font-weight: bold;
+  font-size: 16px;
+  transition: color 0.3s ease;
+}
+
+.navbar a:hover {
+  color: #e9a250f5;
+}
